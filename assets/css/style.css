@@ -298,7 +298,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 }
 
 .header-text a {
-    width: 200px;
+    width: 220px;
     height: 60px;
     line-height: 60px;
     /* border-radius: 3px; */
@@ -397,7 +397,7 @@ nav.navbar.bootsnav .navbar-toggle i {
     left: 0;
     width: 109%;
     height: 90px;
-    background: #1f2c6c;
+    background: #FFF;
 }
 
 /*.ab-list-icon */
@@ -408,12 +408,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 .about-list-icon ul li a {
     padding-right: 22px;
     cursor: pointer;
-    color: #fff;
-}
-
-.about-list-icon ul li a {
-    cursor: pointer;
-    color: #fff;
+    color: #3C4258;
     display: inline-block;
     border: 2px solid;
     margin-left: 20px;
