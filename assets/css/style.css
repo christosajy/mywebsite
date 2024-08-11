@@ -264,8 +264,7 @@ nav.navbar.bootsnav .navbar-toggle i {
     align-items: center;
     justify-content: center;
     position: relative;
-    /* background: url(../images/about/welcome-banner.jpg)no-repeat; */
-    background: url(/assets/images/about/cover-banner.jpg)no-repeat;
+    background: url(/assets/images/about/cover-banner.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     height: 890px;
@@ -276,7 +275,7 @@ nav.navbar.bootsnav .navbar-toggle i {
     content: " ";
     top: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.863);
+    background: rgba(0, 0, 0, 0.75);
     width: 100%;
     height: 100%;
 }
